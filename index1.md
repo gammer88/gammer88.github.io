@@ -13,6 +13,7 @@
   <li><a href="#contact">kontakte</a></li>
   <li><a href="#bilder">bilder</a></li>
   <li><a href="#vidos">Back videos</a></li>
+  <li><a href="https://gammer88.github.io/Video.de/">lustige videos</a></li>
 <li><a href="#vidos">kuchen rezepte</a></li>
 </ul>
 </html> 
